@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mabelsymes
-- 👀 I’m interested in maths and computing
+- Hi, I’m Mabel Symes
+- I’m interested in maths and computing
