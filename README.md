@@ -1,2 +1,3 @@
 - Hi, I’m Mabel Symes
 - I’m interested in maths and computing
+- I go to The Perse Upper
